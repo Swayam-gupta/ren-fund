@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+
+# Environment / secrets
+.env
+
+# Data (large files — commit only processed CSVs if needed)
+data/raw/
+data/cache/
+
+# Reports (regenerate with dashboard.py)
+reports/
+
+# Logs
+logs/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb

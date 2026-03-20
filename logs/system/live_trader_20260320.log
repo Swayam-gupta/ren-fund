@@ -1,0 +1,274 @@
+2026-03-20 17:02:22 | INFO     | live_trader | ╔══════════════════════════════════════════════════════════╗
+2026-03-20 17:02:22 | INFO     | live_trader | ║   RENAISSANCE QUANT FUND  ·  FORWARD / PAPER TRADER     ║
+2026-03-20 17:02:22 | INFO     | live_trader | ║   Capital: $10,000.00  |  Max Cycles: 20             ║
+2026-03-20 17:02:22 | INFO     | live_trader | ║   Universe: ['EURUSD', 'GBPUSD', 'USDJPY', 'AUDUSD', 'USDCAD']        
+2026-03-20 17:02:22 | INFO     | live_trader | ╚══════════════════════════════════════════════════════════╝
+2026-03-20 17:02:22 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:02:22 | INFO     | live_trader |   CYCLE 01/20  ·  2026-03-20 11:32:22 UTC
+2026-03-20 17:02:22 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:02:36 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:02:49 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:03:03 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:03:16 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:03:30 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:03:30 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:03:30 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=0.86  Margin=$199.31
+2026-03-20 17:03:30 | INFO     | live_trader |   💼  Cash=$9,485.2464  Realised P&L=$+0.0000  Open=2  Closed=0
+2026-03-20 17:03:30 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:04:30 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:04:30 | INFO     | live_trader |   CYCLE 02/20  ·  2026-03-20 11:34:30 UTC
+2026-03-20 17:04:30 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:04:30 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:04:30 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:04:30 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:04:30 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:04:30 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:04:30 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:04:30 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=0.9  Margin=$208.58
+2026-03-20 17:04:30 | INFO     | live_trader |   💼  Cash=$9,887.7789  Realised P&L=$+411.8029  Open=2  Closed=2
+2026-03-20 17:04:30 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:05:30 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:05:30 | INFO     | live_trader |   CYCLE 03/20  ·  2026-03-20 11:35:30 UTC
+2026-03-20 17:05:30 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:05:30 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:05:30 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:05:30 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:05:30 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:05:30 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:05:30 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:05:30 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=0.93  Margin=$215.54
+2026-03-20 17:05:30 | INFO     | live_trader |   💼  Cash=$10,300.0453  Realised P&L=$+831.0221  Open=2  Closed=4
+2026-03-20 17:05:30 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:06:30 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:06:30 | INFO     | live_trader |   CYCLE 04/20  ·  2026-03-20 11:36:30 UTC
+2026-03-20 17:06:30 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:06:30 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:06:30 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:06:30 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:06:30 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:06:30 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:06:30 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:06:30 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=0.97  Margin=$224.81
+2026-03-20 17:06:30 | INFO     | live_trader |   💼  Cash=$10,715.5563  Realised P&L=$+1255.8035  Open=2  Closed=6
+2026-03-20 17:06:30 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:07:30 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:07:30 | INFO     | live_trader |   CYCLE 05/20  ·  2026-03-20 11:37:30 UTC
+2026-03-20 17:07:30 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:07:30 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:07:30 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:07:30 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:07:30 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:07:30 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:07:30 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:07:30 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.01  Margin=$234.08
+2026-03-20 17:07:30 | INFO     | live_trader |   💼  Cash=$11,138.4837  Realised P&L=$+1688.0013  Open=2  Closed=8
+2026-03-20 17:07:30 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:08:30 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:08:30 | INFO     | live_trader |   CYCLE 06/20  ·  2026-03-20 11:38:30 UTC
+2026-03-20 17:08:30 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:08:30 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:08:30 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:08:30 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:08:30 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:08:30 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:08:30 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:08:30 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.05  Margin=$243.35
+2026-03-20 17:08:30 | INFO     | live_trader |   💼  Cash=$11,568.8274  Realised P&L=$+2127.6154  Open=2  Closed=10
+2026-03-20 17:08:30 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:09:30 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:09:30 | INFO     | live_trader |   CYCLE 07/20  ·  2026-03-20 11:39:30 UTC
+2026-03-20 17:09:30 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:09:30 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:09:30 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:09:30 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:09:30 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:09:30 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:09:30 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:09:30 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.09  Margin=$252.62
+2026-03-20 17:09:30 | INFO     | live_trader |   💼  Cash=$12,006.5874  Realised P&L=$+2574.6458  Open=2  Closed=12
+2026-03-20 17:09:30 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:10:30 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:10:30 | INFO     | live_trader |   CYCLE 08/20  ·  2026-03-20 11:40:30 UTC
+2026-03-20 17:10:30 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:10:30 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:10:30 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:10:30 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:10:30 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:10:30 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:10:30 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:10:30 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.12  Margin=$259.57
+2026-03-20 17:10:30 | INFO     | live_trader |   💼  Cash=$12,454.0813  Realised P&L=$+3029.0925  Open=2  Closed=14
+2026-03-20 17:10:30 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:11:30 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:11:30 | INFO     | live_trader |   CYCLE 09/20  ·  2026-03-20 11:41:30 UTC
+2026-03-20 17:11:30 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:11:30 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:11:30 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:11:30 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:11:30 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:11:31 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:11:31 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:11:31 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.16  Margin=$268.84
+2026-03-20 17:11:31 | INFO     | live_trader |   💼  Cash=$12,904.8198  Realised P&L=$+3489.1014  Open=2  Closed=16
+2026-03-20 17:11:31 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:12:31 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:12:31 | INFO     | live_trader |   CYCLE 10/20  ·  2026-03-20 11:42:31 UTC
+2026-03-20 17:12:31 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:12:31 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:12:31 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:12:31 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:12:31 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:12:31 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:12:31 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:12:31 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.2  Margin=$278.11
+2026-03-20 17:12:31 | INFO     | live_trader |   💼  Cash=$13,362.9747  Realised P&L=$+3956.5267  Open=2  Closed=18
+2026-03-20 17:12:31 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:13:31 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:13:31 | INFO     | live_trader |   CYCLE 11/20  ·  2026-03-20 11:43:31 UTC
+2026-03-20 17:13:31 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:13:31 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:13:31 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:13:31 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:13:31 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:13:31 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:13:31 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:13:31 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.25  Margin=$289.70
+2026-03-20 17:13:31 | INFO     | live_trader |   💼  Cash=$13,826.2283  Realised P&L=$+4431.3683  Open=2  Closed=20
+2026-03-20 17:13:31 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:14:31 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:14:31 | INFO     | live_trader |   CYCLE 12/20  ·  2026-03-20 11:44:31 UTC
+2026-03-20 17:14:31 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:14:31 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:14:31 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:14:31 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:14:31 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:14:31 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:14:31 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:14:31 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.29  Margin=$298.97
+2026-03-20 17:14:31 | INFO     | live_trader |   💼  Cash=$14,301.0699  Realised P&L=$+4915.4803  Open=2  Closed=22
+2026-03-20 17:14:31 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:15:31 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:15:31 | INFO     | live_trader |   CYCLE 13/20  ·  2026-03-20 11:45:31 UTC
+2026-03-20 17:15:31 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:15:31 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:15:31 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:15:31 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:15:31 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:15:31 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:15:31 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:15:31 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.33  Margin=$308.24
+2026-03-20 17:15:31 | INFO     | live_trader |   💼  Cash=$14,783.3278  Realised P&L=$+5407.0086  Open=2  Closed=24
+2026-03-20 17:15:31 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:16:31 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:16:31 | INFO     | live_trader |   CYCLE 14/20  ·  2026-03-20 11:46:31 UTC
+2026-03-20 17:16:31 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:16:31 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:16:31 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:16:31 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:16:31 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:16:31 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:16:31 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:16:31 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.37  Margin=$317.51
+2026-03-20 17:16:31 | INFO     | live_trader |   💼  Cash=$15,273.0021  Realised P&L=$+5905.9533  Open=2  Closed=26
+2026-03-20 17:16:31 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:17:31 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:17:31 | INFO     | live_trader |   CYCLE 15/20  ·  2026-03-20 11:47:31 UTC
+2026-03-20 17:17:31 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:17:31 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:17:31 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:17:31 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:17:31 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:17:31 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:17:31 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:17:31 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.42  Margin=$329.10
+2026-03-20 17:17:31 | INFO     | live_trader |   💼  Cash=$15,767.7750  Realised P&L=$+6412.3142  Open=2  Closed=28
+2026-03-20 17:17:31 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:18:31 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:18:31 | INFO     | live_trader |   CYCLE 16/20  ·  2026-03-20 11:48:31 UTC
+2026-03-20 17:18:31 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:18:31 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:18:31 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:18:31 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:18:31 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:18:31 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:18:31 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:18:31 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.46  Margin=$338.37
+2026-03-20 17:18:31 | INFO     | live_trader |   💼  Cash=$16,274.1360  Realised P&L=$+6927.9456  Open=2  Closed=30
+2026-03-20 17:18:31 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:19:31 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:19:31 | INFO     | live_trader |   CYCLE 17/20  ·  2026-03-20 11:49:31 UTC
+2026-03-20 17:19:31 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:19:31 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:19:31 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:19:31 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:19:31 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:19:31 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:19:31 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:19:31 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.51  Margin=$349.96
+2026-03-20 17:19:31 | INFO     | live_trader |   💼  Cash=$16,785.5957  Realised P&L=$+7450.9933  Open=2  Closed=32
+2026-03-20 17:19:31 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:20:31 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:20:31 | INFO     | live_trader |   CYCLE 18/20  ·  2026-03-20 11:50:31 UTC
+2026-03-20 17:20:31 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:20:31 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:20:31 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:20:31 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:20:31 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:20:31 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:20:31 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:20:31 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.55  Margin=$359.23
+2026-03-20 17:20:31 | INFO     | live_trader |   💼  Cash=$17,308.6434  Realised P&L=$+7983.3114  Open=2  Closed=34
+2026-03-20 17:20:31 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:21:31 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:21:31 | INFO     | live_trader |   CYCLE 19/20  ·  2026-03-20 11:51:31 UTC
+2026-03-20 17:21:31 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:21:31 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:21:31 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:21:31 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:21:31 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:21:31 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:21:31 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:21:31 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.6  Margin=$370.82
+2026-03-20 17:21:31 | INFO     | live_trader |   💼  Cash=$17,836.7898  Realised P&L=$+8523.0458  Open=2  Closed=36
+2026-03-20 17:21:31 | INFO     | live_trader |   ⏳  Next refresh in 60s ...
+2026-03-20 17:22:31 | INFO     | live_trader | 
+──────────────────────────────────────────────────────────
+2026-03-20 17:22:31 | INFO     | live_trader |   CYCLE 20/20  ·  2026-03-20 11:52:31 UTC
+2026-03-20 17:22:31 | INFO     | live_trader | ──────────────────────────────────────────────────────────
+2026-03-20 17:22:31 | INFO     | live_trader |   EURUSD: close=1.15880  signal=-1
+2026-03-20 17:22:31 | INFO     | live_trader |   GBPUSD: close=1.34300  signal=0
+2026-03-20 17:22:31 | INFO     | live_trader |   USDJPY: close=157.72000  signal=1
+2026-03-20 17:22:31 | INFO     | live_trader |   AUDUSD: close=0.70860  signal=0
+2026-03-20 17:22:31 | INFO     | live_trader |   USDCAD: close=1.37380  signal=0
+2026-03-20 17:22:31 | INFO     | live_trader |   ✅  [USDJPY] BUY  | Entry=157.72000  TP=157.97235  SL=157.59382 | Lot=0.01  Margin=$315.44
+2026-03-20 17:22:31 | INFO     | live_trader |   ✅  [EURUSD] SELL | Entry=1.15880  TP=1.15695  SL=1.15973 | Lot=1.65  Margin=$382.40
+2026-03-20 17:22:31 | INFO     | live_trader |   💼  Cash=$18,374.2066  Realised P&L=$+9072.0506  Open=2  Closed=38
+2026-03-20 17:22:31 | INFO     | live_trader | 
+══════════════════════════════════════════════════════════
+2026-03-20 17:22:31 | INFO     | live_trader |   FORWARD TEST SESSION COMPLETE
+2026-03-20 17:22:31 | INFO     | live_trader | ══════════════════════════════════════════════════════════
+2026-03-20 17:22:31 | INFO     | live_trader |   Final Cash:     $18,374.2066
+2026-03-20 17:22:31 | INFO     | live_trader |   Realised P&L:   $+9072.0506
+2026-03-20 17:22:31 | INFO     | live_trader |   Closed Trades:  38
+2026-03-20 17:22:31 | INFO     | live_trader |   Still Open:     2
+2026-03-20 17:22:31 | INFO     | live_trader |   Equity log  → data/processed/forward_equity.csv
+2026-03-20 17:22:31 | INFO     | live_trader |   Trade ledger → data/processed/forward_trades.csv

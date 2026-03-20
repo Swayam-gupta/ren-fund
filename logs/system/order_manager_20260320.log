@@ -1,0 +1,79 @@
+2026-03-20 17:02:22 | INFO     | order_manager | Order ledger → logs/trades\live_20260320_170222.jsonl
+2026-03-20 17:03:30 | INFO     | order_manager |   OPEN  [d154e214] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:03:30 | INFO     | order_manager |   OPEN  [51ba7988] EURUSD SELL lot=0.86 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:04:30 | INFO     | order_manager |   🟢 CLOSE [d154e214] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+252.3520
+2026-03-20 17:04:30 | INFO     | order_manager |   🟢 CLOSE [51ba7988] EURUSD @ 1.15695 P&L=$+159.4509  [TP]  Cumulative P&L=$+411.8029
+2026-03-20 17:04:30 | INFO     | order_manager |   OPEN  [6268ffc2] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:04:30 | INFO     | order_manager |   OPEN  [bfb9c69d] EURUSD SELL lot=0.9 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:05:30 | INFO     | order_manager |   🟢 CLOSE [6268ffc2] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+664.1549
+2026-03-20 17:05:30 | INFO     | order_manager |   🟢 CLOSE [bfb9c69d] EURUSD @ 1.15695 P&L=$+166.8672  [TP]  Cumulative P&L=$+831.0221
+2026-03-20 17:05:30 | INFO     | order_manager |   OPEN  [f182cbc6] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:05:30 | INFO     | order_manager |   OPEN  [e4bcaaa9] EURUSD SELL lot=0.93 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:06:30 | INFO     | order_manager |   🟢 CLOSE [f182cbc6] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+1083.3741
+2026-03-20 17:06:30 | INFO     | order_manager |   🟢 CLOSE [e4bcaaa9] EURUSD @ 1.15695 P&L=$+172.4294  [TP]  Cumulative P&L=$+1255.8035
+2026-03-20 17:06:30 | INFO     | order_manager |   OPEN  [500e95ea] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:06:30 | INFO     | order_manager |   OPEN  [f4ea32a5] EURUSD SELL lot=0.97 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:07:30 | INFO     | order_manager |   🟢 CLOSE [500e95ea] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+1508.1555
+2026-03-20 17:07:30 | INFO     | order_manager |   🟢 CLOSE [f4ea32a5] EURUSD @ 1.15695 P&L=$+179.8458  [TP]  Cumulative P&L=$+1688.0013
+2026-03-20 17:07:30 | INFO     | order_manager |   OPEN  [aff43db8] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:07:30 | INFO     | order_manager |   OPEN  [48334f88] EURUSD SELL lot=1.01 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:08:30 | INFO     | order_manager |   🟢 CLOSE [aff43db8] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+1940.3533
+2026-03-20 17:08:30 | INFO     | order_manager |   🟢 CLOSE [48334f88] EURUSD @ 1.15695 P&L=$+187.2621  [TP]  Cumulative P&L=$+2127.6154
+2026-03-20 17:08:30 | INFO     | order_manager |   OPEN  [883c8fee] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:08:30 | INFO     | order_manager |   OPEN  [6a28ae95] EURUSD SELL lot=1.05 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:09:30 | INFO     | order_manager |   🟢 CLOSE [883c8fee] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+2379.9674
+2026-03-20 17:09:30 | INFO     | order_manager |   🟢 CLOSE [6a28ae95] EURUSD @ 1.15695 P&L=$+194.6784  [TP]  Cumulative P&L=$+2574.6458
+2026-03-20 17:09:30 | INFO     | order_manager |   OPEN  [549d61fa] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:09:30 | INFO     | order_manager |   OPEN  [e2e5824a] EURUSD SELL lot=1.09 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:10:30 | INFO     | order_manager |   🟢 CLOSE [549d61fa] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+2826.9978
+2026-03-20 17:10:30 | INFO     | order_manager |   🟢 CLOSE [e2e5824a] EURUSD @ 1.15695 P&L=$+202.0947  [TP]  Cumulative P&L=$+3029.0925
+2026-03-20 17:10:30 | INFO     | order_manager |   OPEN  [f379a4f2] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:10:30 | INFO     | order_manager |   OPEN  [fe2c1a61] EURUSD SELL lot=1.12 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:11:31 | INFO     | order_manager |   🟢 CLOSE [f379a4f2] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+3281.4445
+2026-03-20 17:11:31 | INFO     | order_manager |   🟢 CLOSE [fe2c1a61] EURUSD @ 1.15695 P&L=$+207.6570  [TP]  Cumulative P&L=$+3489.1014
+2026-03-20 17:11:31 | INFO     | order_manager |   OPEN  [e4bb5add] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:11:31 | INFO     | order_manager |   OPEN  [5cf6923f] EURUSD SELL lot=1.16 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:12:31 | INFO     | order_manager |   🟢 CLOSE [e4bb5add] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+3741.4534
+2026-03-20 17:12:31 | INFO     | order_manager |   🟢 CLOSE [5cf6923f] EURUSD @ 1.15695 P&L=$+215.0733  [TP]  Cumulative P&L=$+3956.5267
+2026-03-20 17:12:31 | INFO     | order_manager |   OPEN  [f7aa9032] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:12:31 | INFO     | order_manager |   OPEN  [14f42027] EURUSD SELL lot=1.2 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:13:31 | INFO     | order_manager |   🟢 CLOSE [f7aa9032] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+4208.8787
+2026-03-20 17:13:31 | INFO     | order_manager |   🟢 CLOSE [14f42027] EURUSD @ 1.15695 P&L=$+222.4896  [TP]  Cumulative P&L=$+4431.3683
+2026-03-20 17:13:31 | INFO     | order_manager |   OPEN  [5dfe0597] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:13:31 | INFO     | order_manager |   OPEN  [6f114513] EURUSD SELL lot=1.25 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:14:31 | INFO     | order_manager |   🟢 CLOSE [5dfe0597] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+4683.7203
+2026-03-20 17:14:31 | INFO     | order_manager |   🟢 CLOSE [6f114513] EURUSD @ 1.15695 P&L=$+231.7600  [TP]  Cumulative P&L=$+4915.4803
+2026-03-20 17:14:31 | INFO     | order_manager |   OPEN  [4751f725] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:14:31 | INFO     | order_manager |   OPEN  [e933793f] EURUSD SELL lot=1.29 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:15:31 | INFO     | order_manager |   🟢 CLOSE [4751f725] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+5167.8323
+2026-03-20 17:15:31 | INFO     | order_manager |   🟢 CLOSE [e933793f] EURUSD @ 1.15695 P&L=$+239.1763  [TP]  Cumulative P&L=$+5407.0086
+2026-03-20 17:15:31 | INFO     | order_manager |   OPEN  [6efa7708] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:15:31 | INFO     | order_manager |   OPEN  [5e5714c6] EURUSD SELL lot=1.33 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:16:31 | INFO     | order_manager |   🟢 CLOSE [6efa7708] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+5659.3606
+2026-03-20 17:16:31 | INFO     | order_manager |   🟢 CLOSE [5e5714c6] EURUSD @ 1.15695 P&L=$+246.5926  [TP]  Cumulative P&L=$+5905.9533
+2026-03-20 17:16:31 | INFO     | order_manager |   OPEN  [ce621b22] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:16:31 | INFO     | order_manager |   OPEN  [a678aa62] EURUSD SELL lot=1.37 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:17:31 | INFO     | order_manager |   🟢 CLOSE [ce621b22] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+6158.3053
+2026-03-20 17:17:31 | INFO     | order_manager |   🟢 CLOSE [a678aa62] EURUSD @ 1.15695 P&L=$+254.0090  [TP]  Cumulative P&L=$+6412.3142
+2026-03-20 17:17:31 | INFO     | order_manager |   OPEN  [422672e4] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:17:31 | INFO     | order_manager |   OPEN  [bec489e7] EURUSD SELL lot=1.42 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:18:31 | INFO     | order_manager |   🟢 CLOSE [422672e4] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+6664.6662
+2026-03-20 17:18:31 | INFO     | order_manager |   🟢 CLOSE [bec489e7] EURUSD @ 1.15695 P&L=$+263.2794  [TP]  Cumulative P&L=$+6927.9456
+2026-03-20 17:18:31 | INFO     | order_manager |   OPEN  [1d39f4fe] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:18:31 | INFO     | order_manager |   OPEN  [520ed893] EURUSD SELL lot=1.46 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:19:31 | INFO     | order_manager |   🟢 CLOSE [1d39f4fe] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+7180.2976
+2026-03-20 17:19:31 | INFO     | order_manager |   🟢 CLOSE [520ed893] EURUSD @ 1.15695 P&L=$+270.6957  [TP]  Cumulative P&L=$+7450.9933
+2026-03-20 17:19:31 | INFO     | order_manager |   OPEN  [0d591e49] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:19:31 | INFO     | order_manager |   OPEN  [ffdf20d2] EURUSD SELL lot=1.51 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:20:31 | INFO     | order_manager |   🟢 CLOSE [0d591e49] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+7703.3453
+2026-03-20 17:20:31 | INFO     | order_manager |   🟢 CLOSE [ffdf20d2] EURUSD @ 1.15695 P&L=$+279.9661  [TP]  Cumulative P&L=$+7983.3114
+2026-03-20 17:20:31 | INFO     | order_manager |   OPEN  [7397b030] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:20:31 | INFO     | order_manager |   OPEN  [1a0386cb] EURUSD SELL lot=1.55 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:21:31 | INFO     | order_manager |   🟢 CLOSE [7397b030] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+8235.6634
+2026-03-20 17:21:31 | INFO     | order_manager |   🟢 CLOSE [1a0386cb] EURUSD @ 1.15695 P&L=$+287.3824  [TP]  Cumulative P&L=$+8523.0458
+2026-03-20 17:21:31 | INFO     | order_manager |   OPEN  [b875e50b] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:21:31 | INFO     | order_manager |   OPEN  [bcc6d5a4] EURUSD SELL lot=1.6 @ 1.15880  TP=1.15695  SL=1.15973
+2026-03-20 17:22:31 | INFO     | order_manager |   🟢 CLOSE [b875e50b] USDJPY @ 157.97235 P&L=$+252.3520  [TP]  Cumulative P&L=$+8775.3978
+2026-03-20 17:22:31 | INFO     | order_manager |   🟢 CLOSE [bcc6d5a4] EURUSD @ 1.15695 P&L=$+296.6528  [TP]  Cumulative P&L=$+9072.0506
+2026-03-20 17:22:31 | INFO     | order_manager |   OPEN  [654d190d] USDJPY BUY  lot=0.01 @ 157.72000  TP=157.97235  SL=157.59382
+2026-03-20 17:22:31 | INFO     | order_manager |   OPEN  [f1b8079b] EURUSD SELL lot=1.65 @ 1.15880  TP=1.15695  SL=1.15973

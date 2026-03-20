@@ -1,0 +1,220 @@
+2026-03-20 16:57:41 | INFO     | data_fetcher |   Fetching FX_DAILY EUR/USD  [full] ...
+2026-03-20 16:57:55 | DEBUG    | data_fetcher | Cache SAVE — data/cache\500bc174a8b7d2943ca71ebfafb8f08f.pkl
+2026-03-20 16:57:55 | INFO     | data_fetcher |   EURUSD: 522 bars  [2023-01-02 → 2024-12-31]
+2026-03-20 16:57:55 | INFO     | data_fetcher |   Fetching FX_DAILY GBP/USD  [full] ...
+2026-03-20 16:58:10 | DEBUG    | data_fetcher | Cache SAVE — data/cache\fd71ece28846fdeff5038c79841b38fc.pkl
+2026-03-20 16:58:10 | INFO     | data_fetcher |   GBPUSD: 522 bars  [2023-01-02 → 2024-12-31]
+2026-03-20 16:58:10 | INFO     | data_fetcher |   Fetching FX_DAILY USD/JPY  [full] ...
+2026-03-20 16:58:25 | DEBUG    | data_fetcher | Cache SAVE — data/cache\cab75d83b8e03a7c1f6e51513f4e304d.pkl
+2026-03-20 16:58:25 | INFO     | data_fetcher |   USDJPY: 522 bars  [2023-01-02 → 2024-12-31]
+2026-03-20 16:58:25 | INFO     | data_fetcher |   Fetching FX_DAILY AUD/USD  [full] ...
+2026-03-20 16:58:40 | DEBUG    | data_fetcher | Cache SAVE — data/cache\2627e3800a01a055b85fd8b85fdc89fd.pkl
+2026-03-20 16:58:40 | INFO     | data_fetcher |   AUDUSD: 522 bars  [2023-01-02 → 2024-12-31]
+2026-03-20 16:58:40 | INFO     | data_fetcher |   Fetching FX_DAILY USD/CAD  [full] ...
+2026-03-20 16:58:55 | DEBUG    | data_fetcher | Cache SAVE — data/cache\17a6376ee9333b0c6b8d906f71eb615d.pkl
+2026-03-20 16:58:55 | INFO     | data_fetcher |   USDCAD: 522 bars  [2023-01-02 → 2024-12-31]
+2026-03-20 17:02:22 | INFO     | data_fetcher |   Fetching FX_DAILY EUR/USD  [compact] ...
+2026-03-20 17:02:35 | DEBUG    | data_fetcher | Cache SAVE — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:02:35 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:02:36 | INFO     | data_fetcher |   Fetching FX_DAILY GBP/USD  [compact] ...
+2026-03-20 17:02:49 | DEBUG    | data_fetcher | Cache SAVE — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:02:49 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:02:49 | INFO     | data_fetcher |   Fetching FX_DAILY USD/JPY  [compact] ...
+2026-03-20 17:03:03 | DEBUG    | data_fetcher | Cache SAVE — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:03:03 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:03:03 | INFO     | data_fetcher |   Fetching FX_DAILY AUD/USD  [compact] ...
+2026-03-20 17:03:16 | DEBUG    | data_fetcher | Cache SAVE — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:03:16 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:03:16 | INFO     | data_fetcher |   Fetching FX_DAILY USD/CAD  [compact] ...
+2026-03-20 17:03:30 | DEBUG    | data_fetcher | Cache SAVE — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:03:30 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:04:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:04:30 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:04:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:04:30 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:04:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:04:30 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:04:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:04:30 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:04:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:04:30 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:05:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:05:30 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:05:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:05:30 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:05:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:05:30 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:05:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:05:30 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:05:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:05:30 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:06:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:06:30 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:06:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:06:30 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:06:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:06:30 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:06:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:06:30 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:06:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:06:30 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:07:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:07:30 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:07:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:07:30 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:07:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:07:30 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:07:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:07:30 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:07:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:07:30 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:08:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:08:30 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:08:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:08:30 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:08:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:08:30 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:08:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:08:30 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:08:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:08:30 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:09:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:09:30 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:09:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:09:30 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:09:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:09:30 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:09:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:09:30 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:09:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:09:30 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:10:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:10:30 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:10:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:10:30 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:10:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:10:30 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:10:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:10:30 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:10:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:10:30 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:11:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:11:30 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:11:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:11:30 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:11:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:11:30 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:11:30 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:11:30 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:11:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:11:31 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:12:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:12:31 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:12:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:12:31 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:12:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:12:31 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:12:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:12:31 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:12:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:12:31 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:13:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:13:31 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:13:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:13:31 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:13:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:13:31 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:13:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:13:31 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:13:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:13:31 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:14:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:14:31 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:14:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:14:31 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:14:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:14:31 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:14:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:14:31 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:14:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:14:31 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:15:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:15:31 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:15:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:15:31 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:15:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:15:31 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:15:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:15:31 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:15:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:15:31 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:16:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:16:31 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:16:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:16:31 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:16:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:16:31 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:16:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:16:31 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:16:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:16:31 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:17:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:17:31 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:17:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:17:31 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:17:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:17:31 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:17:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:17:31 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:17:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:17:31 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:18:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:18:31 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:18:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:18:31 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:18:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:18:31 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:18:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:18:31 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:18:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:18:31 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:19:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:19:31 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:19:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:19:31 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:19:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:19:31 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:19:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:19:31 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:19:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:19:31 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:20:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:20:31 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:20:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:20:31 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:20:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:20:31 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:20:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:20:31 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:20:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:20:31 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:21:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:21:31 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:21:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:21:31 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:21:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:21:31 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:21:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:21:31 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:21:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:21:31 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:22:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\1ecb8e506809a2559995cd2c63f8957a.pkl
+2026-03-20 17:22:31 | INFO     | data_fetcher |   EURUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:22:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\37862d0dc587935a3ddfd620870ac816.pkl
+2026-03-20 17:22:31 | INFO     | data_fetcher |   GBPUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:22:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\73d7abb94bb4ed0c4f114a8a1d3d87c5.pkl
+2026-03-20 17:22:31 | INFO     | data_fetcher |   USDJPY: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:22:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\f72c32b5c20ea94749aa54589f5372ac.pkl
+2026-03-20 17:22:31 | INFO     | data_fetcher |   AUDUSD: 100 bars  [2025-10-31 → 2026-03-19]
+2026-03-20 17:22:31 | DEBUG    | data_fetcher | Cache HIT  — data/cache\2da003e47d7e0abcd157409a4ab8bf0f.pkl
+2026-03-20 17:22:31 | INFO     | data_fetcher |   USDCAD: 100 bars  [2025-10-31 → 2026-03-19]
