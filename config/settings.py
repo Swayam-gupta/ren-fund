@@ -14,7 +14,7 @@ FOREX_PAIRS = [
 
 # ── Market Conventions ─────────────────────────────────────────────────────────
 STANDARD_LOT     = 100_000     # γ  — 1 standard lot = 100,000 base units
-DEFAULT_LEVERAGE = 500         # L  — leverage ratio  1:500
+DEFAULT_LEVERAGE = 20        # L  — leverage ratio  1:20
 MIN_LOT_SIZE     = 0.01        # minimum micro lot
 MAX_LOT_SIZE     = 10.0        # position cap per trade
 
